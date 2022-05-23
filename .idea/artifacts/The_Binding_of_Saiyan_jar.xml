@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The Binding of Saiyan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Binding_of_Saiyan_jar</output-path>
+    <root id="archive" name="The Binding of Saiyan.jar">
+      <element id="module-output" name="Janex_Dungeon" />
+    </root>
+  </artifact>
+</component>
